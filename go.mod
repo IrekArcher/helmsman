@@ -1,4 +1,4 @@
-module github.com/Praqma/helmsman
+module github.com/Praqma/helmsman/v3
 
 go 1.21
 
