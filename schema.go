@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"os"
 
-	"github.com/Praqma/helmsman/internal/app"
+	"github.com/IrekArcher/helmsman/v3/internal/app"
 	"github.com/invopop/jsonschema"
 )
 

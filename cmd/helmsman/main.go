@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/Praqma/helmsman/internal/app"
+	"github.com/IrekArcher/helmsman/v3/internal/app"
 )
 
 func main() {
