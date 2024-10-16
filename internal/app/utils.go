@@ -20,9 +20,9 @@ import (
 	"github.com/Masterminds/semver"
 	"github.com/subosito/gotenv"
 
-	"github.com/Praqma/helmsman/internal/aws"
-	"github.com/Praqma/helmsman/internal/azure"
-	"github.com/Praqma/helmsman/internal/gcs"
+	"github.com/Praqma/helmsman/v3/internal/aws"
+	"github.com/Praqma/helmsman/v3/internal/azure"
+	"github.com/Praqma/helmsman/v3/internal/gcs"
 )
 
 var (

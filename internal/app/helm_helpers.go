@@ -10,7 +10,7 @@ import (
 	"sigs.k8s.io/yaml"
 
 	"github.com/Masterminds/semver"
-	"github.com/Praqma/helmsman/internal/gcs"
+	"github.com/Praqma/helmsman/v3/internal/gcs"
 )
 
 type helmRepo struct {
